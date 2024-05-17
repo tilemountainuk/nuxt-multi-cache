@@ -80,5 +80,6 @@
     "prettier": "^3.0.1",
     "vitepress": "^1.0.0-rc.4",
     "vue-json-pretty": "^2.2.4"
-  }
+  },
+  "packageManager": "yarn@3.6.4"
 }
